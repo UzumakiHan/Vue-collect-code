@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "collectCode",
+  "appid": "wx9f5c3c03589de947",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
