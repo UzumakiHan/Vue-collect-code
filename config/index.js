@@ -7,6 +7,9 @@ const config = {
     '@/config': path.resolve(__dirname, '../src/config'),
     '@/constant': path.resolve(__dirname, '../src/constant'),
     '@/utils': path.resolve(__dirname,'../src/utils'),
+    '@/common': path.resolve(__dirname,'../src/common'),
+    '@/types': path.resolve(__dirname,'../src/types'),
+
  },
   projectName: 'collectCode',
   date: '2022-8-24',
